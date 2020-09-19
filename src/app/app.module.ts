@@ -19,7 +19,7 @@ import { AdminLoginComponent } from './admin-login/admin-login.component';
     SignUpComponent,
     HomepageComponent,
     GalleryComponent,
-    AdminLoginComponent
+    AdminLoginComponent,
   ],
   imports: [
     BrowserModule,
